@@ -1,0 +1,67 @@
+name: AI News Digest
+
+on:
+  schedule:
+    - cron: "0 5 * * *"     # الملخص اليومي — ٨ الصبح بتوقيت الرياض
+    - cron: "15 */3 * * *"  # فحص الإطلاقات الكبيرة كل ٣ ساعات
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "daily أو alert"
+        default: daily
+        type: choice
+        options: [daily, alert]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      TO_EMAIL: ${{ secrets.TO_EMAIL }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pick mode
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then
+            if [ "${{ github.event.schedule }}" = "0 5 * * *" ]; then MODE=daily; else MODE=alert; fi
+          fi
+          echo "MODE=$MODE" >> "$GITHUB_ENV"
+      - name: Run
+        env:
+          DEFER_EMAIL: "1"
+        run: python digest.py "$MODE"
+      - name: Save state and page
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add state/seen.json docs 2>/dev/null || git add state/seen.json
+          git diff --cached --quiet || (git commit -m "update: $(date -u +%F-%H%M)" && git pull --rebase && git push)
+      - name: Publish page
+        if: env.MODE == 'daily' && hashFiles('out/pending.json') != ''
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - if: env.MODE == 'daily' && hashFiles('out/pending.json') != ''
+        uses: actions/deploy-pages@v4
+      - name: Send email
+        run: python digest.py send
