@@ -2,7 +2,8 @@
  "alerts": {
   "2026-10-10": 1,
   "2026-10-13": 1,
-  "2026-10-14": 1
+  "2026-10-14": 1,
+  "2026-10-15": 1
  },
  "titles": {
   "2506 13771 littlebit ultra low bit quantization via latent factorization": "2026-10-09T12:08:45.306742+00:00",
@@ -97,6 +98,7 @@
   "distrokid has been quietly taking down songs in response to umg lawsuit": "2026-10-11T11:10:03.103363+00:00",
   "dlss 5 gets toned down for its hogwarts legacy debut next month": "2026-10-14T11:18:36.505388+00:00",
   "egypt launches driverless smart transportation powered by ai": "2026-10-10T17:20:49.682579+00:00",
+  "elon musk unveils unified subscription for grok cursor and x": "2026-10-14T21:41:10.299335+00:00",
   "engineer developer observations of gemma4 31b qwen3 8 27b and 6 1 sol for softwa": "2026-10-11T11:10:03.103363+00:00",
   "epic shifts to ai accelerated development for upcoming disney game": "2026-10-14T11:18:36.505388+00:00",
   "every model that can be run on 10 16gb vram ranked": "2026-10-12T12:41:14.489946+00:00",
@@ -129,6 +131,7 @@
   "google launches gemini 3 6 flash": "2026-10-14T10:52:57.910566+00:00",
   "google launches gemini 4 argon": "2026-10-14T10:52:57.910566+00:00",
   "google makes it easier to launch your vibe coded apps": "2026-10-14T11:18:36.505388+00:00",
+  "google officially launches gemini 4 argon ai model": "2026-10-14T21:41:10.299335+00:00",
   "google officially releases gemini 4 argon": "2026-10-14T09:53:41.186622+00:00",
   "google play now lets anyone build private vibe coded apps that run on android": "2026-10-14T11:18:36.505388+00:00",
   "google releases a new local first granola competitor": "2026-10-09T12:08:45.306742+00:00",
@@ -343,7 +346,9 @@
   "xbox is officially embracing the chaos of ai powered game ports": "2026-10-14T11:18:36.505388+00:00",
   "أداة ذكاء اصطناعي جديدة لمكافحة الاحتيال من جوجل ديب مايند وسنغافورة": "2026-10-14T04:53:11.964033+00:00",
   "إطلاق gemini 4 argon للروبوتات": "2026-10-13T16:56:58.167104+00:00",
+  "إيلون ماسك يطلق اشتراكا موحدا لـ grok و x": "2026-10-14T21:41:10.299335+00:00",
   "جوجل ai تعلن عن gemini 4 argon": "2026-10-13T16:56:58.167104+00:00",
+  "جوجل تطلق نموذجها الجديد gemini 4 argon": "2026-10-14T21:41:10.299335+00:00",
   "جوجل ديب مايند تطلق gemini 4 argon": "2026-10-13T16:56:58.167104+00:00",
   "مصر تطلق نظام نقل عام ذكي بدون سائق": "2026-10-10T17:20:49.682579+00:00"
  },
@@ -489,6 +494,7 @@
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwAHOLqTbW5eajk6ua_1Gi3LZp8oqwIOLaz8TVX3eOUyH_JsMoJyubBK0D87FER9RMFUaMhAhxzu5jPxm0VBiv_oE14TH0Bpr4kKVhF9w9FE0iwGeyXgBjKJ2zDGK67jDFLh_O9TRyVSeVcyTMeHiaFxAEm4muJI_OFL0v": "2026-10-13T12:25:45.525702+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4-gj6cEQc37MEb6WPn9vPjPFGcz8BO5It6QyXibCH3dxZ-NYfe-mERRKwk0JVn-3KGnB9PX-Ac2plGAvfYVd0_9QCT8piiIIU4Pv_HSW8lzV0nHDiDh1ibz50LsimQ0ooQ6jONA==": "2026-10-11T11:10:03.103363+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG65VkX4avvQ0z-gnJmaS8vSBnBhQUJbaXznFa9OmSs49kgzLLq0mLowWO1kHAK9jV0h6qwHx8yWPcjfEA9lKed-LrlbNXrPGTcXFqL9-fGL-d7SdMqif1Q7wV9FRpd_BP6Kz7q4VuWxkSAcJeYDdlw5vG-_UMe0myhqj4-cfw3X1fECz8O": "2026-10-12T12:41:14.489946+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8FB3tH9y8wfn9TH0UcfzdRqgL6SNCu-5EWxJV5wJV18jnhjZkpzfAwp-7z7g3GjBxZQ9TEpxlmgsesUsshvgCk1Pz6m7kCe570M9WvDJk1TF7rZR6": "2026-10-14T21:41:10.299335+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8wBz8U6SvyyaSXfQWRn31GTp8fxWXwGSZuU97jbvOdY9PT8hx-HL9OhK8nAB1LGcH_inhWNNh8X6P9BlFFsoT5vyxP5B5jr1S4GHxDQBTHX4ATV_TZYCj5Ug_6OUFETjv2jdZa-NLsmssiUTDk7QEMKhJCQ94pPKMAQf-gHucp_MYY5sN21kTgC0=": "2026-10-13T12:25:45.525702+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJPhayL2ugMJG1rHBjEPLsdSCiaFVeNY9UFtZM1NoFIOOIZ_nsWOhfwqw-hC8xbYKLOxtMEc35oBifqSjSYWQlCCDY6JKHgbVQJbkWm3eFEAqXwt_z2f1v-kra1PH7dE0qS5upxhlgaSSDB_KJ01aKbCd42Qel_7YjC5tkjscQLBVAmS4ZAP9oUDPCoC-Nm82IyH9FUIMVNwMSWlXc-n7rl6QeJ48": "2026-10-12T12:41:14.489946+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJjhUG3xfK1pIgXlsJhKFeTAALIkzV-0S3c-zqnY8jmOTkfADMuVB0rpv-YwIt_mLbvCml_CjRCjajaO813-UaJqDRNnZQsqVt2SpyqXEqpntK3LLoAWs9WkFKg4hRJ58CRxU=": "2026-10-12T12:41:14.489946+00:00",
@@ -524,6 +530,7 @@
   "https://www.google.com/search?q=Andrew%20Yang%20Calls%20for%20AI%20%27Kill%20Switch%27": "2026-10-14T11:18:36.505388+00:00",
   "https://www.google.com/search?q=Anthropic%20Open-Sources%20Scion%2C%20a%20Git%20Replacement": "2026-10-14T11:18:36.505388+00:00",
   "https://www.google.com/search?q=Causa%20Prima%20Secures%20%2420M%20Seed%20Funding%20for%20AI%20Agent%20Payments": "2026-10-14T11:18:36.505388+00:00",
+  "https://www.google.com/search?q=Elon%20Musk%20Unveils%20Unified%20Subscription%20for%20Grok%2C%20Cursor%2C%20and%20X": "2026-10-14T21:41:10.299335+00:00",
   "https://www.google.com/search?q=Google%20DeepMind%20Collaborates%20with%20Singapore%20on%20AI%20for%20Scam%20Detection": "2026-10-14T11:18:36.505388+00:00",
   "https://www.google.com/search?q=Google%20Rolls%20Out%20Gemini%204%20Argon%20Globally": "2026-10-14T11:18:36.505388+00:00",
   "https://www.google.com/search?q=Liquid%20AI%20Releases%20LFM2.5-24B-A2B%20Reasoning%20Model": "2026-10-14T11:18:36.505388+00:00",
