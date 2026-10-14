@@ -11,6 +11,10 @@ on:
         default: daily
         type: choice
         options: [daily, alert]
+      fresh:
+        description: "تجربة: تجاهل الأخبار اللي انرسلت قبل"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -49,6 +53,7 @@ jobs:
       - name: Run
         env:
           DEFER_EMAIL: "1"
+          FRESH: ${{ github.event.inputs.fresh == 'true' && '1' || '' }}
         run: python digest.py "$MODE"
       - name: Save state and page
         run: |

@@ -37,6 +37,7 @@ if _env.exists():
 STATE_FILE = ROOT / "state" / "seen.json"
 UA = "Mozilla/5.0 (ai-news-digest; +https://github.com)"
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
+FRESH = os.environ.get("FRESH") == "1"  # للتجربة: يتجاهل الأخبار اللي انرسلت قبل
 NOW = datetime.now(timezone.utc)
 LOCAL_TZ = timezone(timedelta(hours=config.TZ_OFFSET_HOURS))
 
@@ -518,7 +519,7 @@ def compact(items):
 
 def github_section(state):
     """أعلى المستودعات نجومًا اليوم، مع شرح وش فايدتها لك لو ثبّتها. ما يتكرر المستودع خلال أسبوعين."""
-    repos = [r for r in github_trending() if r["url"] not in state["urls"]]
+    repos = [r for r in github_trending() if FRESH or r["url"] not in state["urls"]]
     if not repos:
         return []
     for r in repos:
@@ -561,7 +562,7 @@ def run_daily():
     items = collect_feeds(since)
     items += grounded_search(24, "غطِّ: إطلاقات الموديلات، الأدوات العملية (وكلاء، أتمتة، توليد فيديو وصور)، "
                                  "أخبار الذكاء الاصطناعي في السعودية والخليج، التمويل والاستحواذات والأبحاث المهمة.")
-    items = [it for it in items if not is_seen(state, it)]
+    items = [it for it in items if FRESH or not is_seen(state, it)]
     log(f"عناصر جديدة: {len(items)}")
     if not items:
         log("ما فيه أخبار جديدة — ما أرسلت شي.")
