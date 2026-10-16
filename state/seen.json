@@ -3,7 +3,8 @@
   "2026-10-10": 1,
   "2026-10-13": 1,
   "2026-10-14": 1,
-  "2026-10-15": 1
+  "2026-10-15": 1,
+  "2026-10-16": 1
  },
  "titles": {
   "128gb rtx spark laptop for 3832": "2026-10-16T09:23:06.194696+00:00",
@@ -248,6 +249,7 @@
   "meta and apple team up to make muse ai models run better on macs": "2026-10-16T09:23:06.194696+00:00",
   "meta has some wonder full new ai models": "2026-10-13T12:25:45.525702+00:00",
   "meta launches an open weight ai model that runs on macs": "2026-10-16T09:23:06.194696+00:00",
+  "meta launches muse spark open ai model optimized for macs": "2026-10-16T16:39:34.672636+00:00",
   "meta launches muse wonder and muse wonder full ai models": "2026-10-14T11:18:36.505388+00:00",
   "meta launches muse wonder frontier model": "2026-10-14T10:52:57.910566+00:00",
   "meta launches muse wonder its first frontier model": "2026-10-15T09:30:25.881981+00:00",
@@ -286,6 +288,7 @@
   "nvidia ai so many models launching this week and we have one of our own coming": "2026-10-16T09:23:06.194696+00:00",
   "nvidia in talks to acquire us open model start up reflection ai": "2026-10-12T12:41:14.489946+00:00",
   "nvidia in talks to acquire us open model startup reflection ai": "2026-10-11T11:10:03.103363+00:00",
+  "nvidia launches rtx spark pcs for accelerated ai and gaming": "2026-10-16T16:39:34.672636+00:00",
   "nvidia nemotron bolt 3 5 74b a9b releases oct 15th": "2026-10-15T09:30:25.881981+00:00",
   "nvidia nvidia nemotron 3 5 bolt 74b a9b 24gb hugging face": "2026-10-16T09:23:06.194696+00:00",
   "nvidia nvidia nemotron 3 5 super vl 120b a12b model family released base nvfp4 b": "2026-10-16T09:23:06.194696+00:00",
@@ -469,11 +472,13 @@
   "zenzap raises 44m for its ai chat app that aims to replace whatsapp in the workp": "2026-10-15T09:30:25.881981+00:00",
   "أداة ذكاء اصطناعي جديدة لمكافحة الاحتيال من جوجل ديب مايند وسنغافورة": "2026-10-14T04:53:11.964033+00:00",
   "إطلاق gemini 4 argon للروبوتات": "2026-10-13T16:56:58.167104+00:00",
+  "إنفيديا تطلق حواسيب rtx spark": "2026-10-16T16:39:34.672636+00:00",
   "إيلون ماسك يطلق اشتراكا موحدا لـ grok و x": "2026-10-14T21:41:10.299335+00:00",
   "جوجل ai تعلن عن gemini 4 argon": "2026-10-13T16:56:58.167104+00:00",
   "جوجل تطلق نموذجها الجديد gemini 4 argon": "2026-10-14T21:41:10.299335+00:00",
   "جوجل ديب مايند تطلق gemini 4 argon": "2026-10-13T16:56:58.167104+00:00",
-  "مصر تطلق نظام نقل عام ذكي بدون سائق": "2026-10-10T17:20:49.682579+00:00"
+  "مصر تطلق نظام نقل عام ذكي بدون سائق": "2026-10-10T17:20:49.682579+00:00",
+  "ميتا تطلق نموذج muse spark ai": "2026-10-16T16:39:34.672636+00:00"
  },
  "urls": {
   "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/": "2026-10-15T09:30:25.881981+00:00",
@@ -665,6 +670,7 @@
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFLcuG9XLgIBiL60UjkspabGVaLG7OUK6CpDp61RSzwQU9PX88Xo_oHJ8PbWHac0dxgSwh7Uh9Y6CBJv99dggoZHCrF6h_7cEPWnThhX88WgKNRcrTOB4RzTDwGXYTnEvtVg==": "2026-10-11T11:10:03.103363+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ-pqdEzgcS_lshN93lJlUPNoYla85q9qc0IryEnWxizgv2spTFMxw_gf_VIJ05zqALhkEGVdy4W1BFa2rRTG-IkVkkwvgfVa2LEj5DychhEVlIJRwvLAoRfeKIyVtxeucZ0Sk6GMZAJbOch9Tb55BDf_1AF3ssBlXp_fBj3cyy9bq-kmJOIPlPkZ3dIMWOLg8NqvgMaOUoDDlBVITB7ZrJhANE53hX1aPabNVNg1C8xU8nXu39A==": "2026-10-10T10:55:24.077831+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNLzTsngMoBgXj7nFakk8dumoaJ0ufosXL2TwaEvOgfctLiEGCETT-XGVkDeeSEBuB73T1bLWNKg5iFWLsDgZZwiHR97GQmRmJ7EBEedCDjYtgvp2pbYdnIg8RiSYKCXfQIRAeeN7UPzhPnw==": "2026-10-14T11:18:36.505388+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQ7AsZuACA-PmhK-axPWF367SIWXkL2moWJx7zcfDZ3QNGVpI9LECR1z1ssijKNgMUJWUvfA72PnfBgUNk6nLAcV4VMwMh1pWxriHhI5lPCn0FzaRSOKstGiGuE3EOYe_OehS4XcbD6RWQP12IXrcevD_iCBXacFutarFXaZpsKbuy-KiKQJ3JeU2MCRrSicw76aLgSyueb-RE84GRka3IKFhMuUrmAXAR": "2026-10-16T16:39:34.672636+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTfrdr73_pliG5k8KVJdOxjbHr6Fc1evOEvRZiz6AwghAuHD_0g4X-Sjz8IHBvjnsiKVJ7PrZnb2Jl2yD_GIfDAYmmA6et_Bg-frt9kLu23B2reCcnP8XHrIa4Le08bGrLEA==": "2026-10-11T11:10:03.103363+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYskLpXihoSywAI4bvnTzK5D1E6zRLyjc9PiwAnHupZvZhH0s470dhzX7KsFmC3JQQ-nGYgibtKYYcT0gFoxuZOC_NyFPQ4OdqhdAdgkBfZzcvGg==": "2026-10-14T09:53:41.186622+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_kQqTANu9RD3gxPCQEDfdPDkxPKIE3iHFY4721iGZ5WQepQUKt5LWV05jNT4ah8mBzDohfF8jmB8T7_4t3fserlM2fUYzNGyT2hU6V6tcMQdnkg==": "2026-10-14T11:18:36.505388+00:00",
@@ -678,6 +684,7 @@
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG65VkX4avvQ0z-gnJmaS8vSBnBhQUJbaXznFa9OmSs49kgzLLq0mLowWO1kHAK9jV0h6qwHx8yWPcjfEA9lKed-LrlbNXrPGTcXFqL9-fGL-d7SdMqif1Q7wV9FRpd_BP6Kz7q4VuWxkSAcJeYDdlw5vG-_UMe0myhqj4-cfw3X1fECz8O": "2026-10-12T12:41:14.489946+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8FB3tH9y8wfn9TH0UcfzdRqgL6SNCu-5EWxJV5wJV18jnhjZkpzfAwp-7z7g3GjBxZQ9TEpxlmgsesUsshvgCk1Pz6m7kCe570M9WvDJk1TF7rZR6": "2026-10-14T21:41:10.299335+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8wBz8U6SvyyaSXfQWRn31GTp8fxWXwGSZuU97jbvOdY9PT8hx-HL9OhK8nAB1LGcH_inhWNNh8X6P9BlFFsoT5vyxP5B5jr1S4GHxDQBTHX4ATV_TZYCj5Ug_6OUFETjv2jdZa-NLsmssiUTDk7QEMKhJCQ94pPKMAQf-gHucp_MYY5sN21kTgC0=": "2026-10-13T12:25:45.525702+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBmgzBN0pEtr2ba7TMNDbFMHjPSCPdsMpLGLZHfIm4KWIzTQhq0oRb2lFwDDhEb_vT6hkBd-o_SaPZf--vPy1h4Lz5hTELPttOV5XHixXD-5Yo3Felcr-GLL16QKbNMUbWGC-M2xFM6DdI7qHZHzxd_DvEoky8DRo2FP9LD03KBFqFbJY9HyOVNKVjFS8yfAzzc9WrxaI6bIhpWDxy1uLtjGY=": "2026-10-16T16:39:34.672636+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJPhayL2ugMJG1rHBjEPLsdSCiaFVeNY9UFtZM1NoFIOOIZ_nsWOhfwqw-hC8xbYKLOxtMEc35oBifqSjSYWQlCCDY6JKHgbVQJbkWm3eFEAqXwt_z2f1v-kra1PH7dE0qS5upxhlgaSSDB_KJ01aKbCd42Qel_7YjC5tkjscQLBVAmS4ZAP9oUDPCoC-Nm82IyH9FUIMVNwMSWlXc-n7rl6QeJ48": "2026-10-12T12:41:14.489946+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJjhUG3xfK1pIgXlsJhKFeTAALIkzV-0S3c-zqnY8jmOTkfADMuVB0rpv-YwIt_mLbvCml_CjRCjajaO813-UaJqDRNnZQsqVt2SpyqXEqpntK3LLoAWs9WkFKg4hRJ58CRxU=": "2026-10-12T12:41:14.489946+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN6sBrVtgIVdAOobDOrRLPWX1gKxBaTMy-3Z3AHmSNeyAPpVQT6_6MSRWdEi1x4u_r-m1wdN_qYNAEa94FZZZXOO8Qs7fz9hlxjiyc-ESDd9V0tLnG67LRwriw": "2026-10-09T12:08:45.306742+00:00",
