@@ -5,7 +5,7 @@
   "2026-10-14": 1,
   "2026-10-15": 1,
   "2026-10-16": 1,
-  "2026-10-23": 1
+  "2026-10-23": 2
  },
  "titles": {
   "10 things you maybe didn t know you can do with qwen 3 6 27b right now for noobs": "2026-10-17T08:54:35.166616+00:00",
@@ -529,6 +529,7 @@
   "nvidia in talks to acquire us open model start up reflection ai": "2026-10-12T12:41:14.489946+00:00",
   "nvidia in talks to acquire us open model startup reflection ai": "2026-10-11T11:10:03.103363+00:00",
   "nvidia kumo relational outperforms supervised machine learning on relational dat": "2026-10-22T09:43:23.962344+00:00",
+  "nvidia launches minerva aiops platform": "2026-10-23T11:38:55.460050+00:00",
   "nvidia launches new open models to run agents in the enterprise and on pcs": "2026-10-20T09:42:36.589909+00:00",
   "nvidia launches rtx spark pcs for accelerated ai and gaming": "2026-10-16T16:39:34.672636+00:00",
   "nvidia launches three open ai models for enterprise agents": "2026-10-17T08:54:35.166616+00:00",
@@ -846,6 +847,7 @@
   "إطلاق gemini 4 argon للروبوتات": "2026-10-13T16:56:58.167104+00:00",
   "إطلاق واجهة برمجة تطبيقات القرارات من openai": "2026-10-22T21:35:45.623048+00:00",
   "إنفيديا تطلق حواسيب rtx spark": "2026-10-16T16:39:34.672636+00:00",
+  "إنفيديا تطلق منصة minerva aiops": "2026-10-23T11:38:55.460050+00:00",
   "إيلون ماسك يطلق اشتراكا موحدا لـ grok و x": "2026-10-14T21:41:10.299335+00:00",
   "جوجل ai تعلن عن gemini 4 argon": "2026-10-13T16:56:58.167104+00:00",
   "جوجل تطلق نموذجها الجديد gemini 4 argon": "2026-10-14T21:41:10.299335+00:00",
@@ -1246,6 +1248,7 @@
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj-PeEvntsITqLEOnhDmJ7TYNrKzxj8siqc-jXqL1MzLVviIxQRdt1TPvG3t8-oiX21Lo5k_03g_ozUVkWxKh0gTTcSWQaAKEMQjop4vICO6EnrB9ZYuUCrsn7WcGpIU-7gvy7Qq3MvWRxlo-FWaxvOtX40B0WmsfplLS68FpTADr04a_rLSGjrit2RjgM7eQv9NkOWK5pjwpbUVT0H85A0jo9mnl2nHPvdWrU-78=": "2026-10-17T08:54:35.166616+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrLtmqZ-QN-EkhpcI_3T538wt5XPJmgd--XpoPruO07sCS-8GeVrTwc1J24OlVEo1Wo9-0-xYf28XOhmsS4qhllaTdaTWW2uI533vqDUjafGNhPdR4Z1k5bpGk0bDF96FYNFguFnCbN9SVns__Yh2fm9aZ0cFUq3JFhJ2a5i6OPIpZcGhBRl5sUKg8eLrWpKrqbFY6dU5yTJ3SXf6RVw==": "2026-10-20T09:42:36.589909+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu8ndhPijEomS99pXX7gvM1DuaXpX4D1KSfiD1WO3YqSC76G_rFQRfputZvZ4ctB00tqWzvGL7_0fZ9LIEj8vbuvWOvFL5mc5Tls9ZEmdgC7zSBlkkV87-w37aKGMfa8eDQjECkW9tBrl2_xbfC_WUfQyTOgkU": "2026-10-20T09:42:36.589909+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyrEXdoCvRXGIL3iM5_895y3guoPJ0DG9uPZIERcXIWZC8sLd5iYCk09wXgSwPfecG1RGU8tT7WMiiE2fPKox0-HecF3tLmgCq9VaGU8W1k3zchuENbuIPnWIKoT9yb8bn1iEjuIoLL2r53JuWV-uIQrS0L8frmGdQmtfNXQ==": "2026-10-23T11:38:55.460050+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGysGRCKkdMqeHQl7JZkf6YHMdIyoIEGsaedGxfU6DRtN2A1RnDyuCR2EdwmyL8arFc_SGGNY41giRirJSn0sI-_jWEF3lQtRthHGBGdLooBnGISyrMmHZ3OFY-VI-c9MjzpmjEdw==": "2026-10-11T11:10:03.103363+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-qJY4eyscbm1YEisN3nSByKNLIjJTDItRmtaY67Xs7YRxAhgysEzdAP2QZfLNX7tNlsKfLQHSASCyOl_dUbR6_8R9AKaX4OkEnV1rxMq_En4XvVb28A3_7WM490dSROYanv2E73EiuaMuJ-rsMTl84QL8S8GifDNNlvDVIymXjUJIME5Jycoy3x7PCnxonyxrzc47hA4=": "2026-10-19T10:22:59.032263+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0yNCGLjqX6v_NQOv_8qkVwzG8Ji3RvT6rLcIoMiXP2F9npIK6pV-w8xUlLf3lytf8JLe3alkS2IkH2fUWLHNZHWf9pRVsmRBepfGwYIWcaYn8GJQmSUkso4-lOKGn28Pozs6BNtMBuwKqd3L52bV1twqL83PmEFW93l7Q_x4TH4E9n28-vpdF7XPJYFG9zJs17Vmuw8Lk8jyb-3b7T9eae3bzISfgbE6Jr4WxLqKuUQ==": "2026-10-11T11:10:03.103363+00:00",
