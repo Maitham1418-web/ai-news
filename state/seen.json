@@ -6,7 +6,8 @@
   "2026-10-29": 1,
   "2026-10-31": 1,
   "2026-11-02": 1,
-  "2026-11-03": 1
+  "2026-11-03": 1,
+  "2026-11-04": 1
  },
  "titles": {
   "1min ai offers free ai automation tools": "2026-11-02T12:56:28.688243+00:00",
@@ -435,6 +436,7 @@
   "mistral large 4 le chonk is now open weight": "2026-10-30T11:05:02.853823+00:00",
   "mistral large 4 le chonk open weights released": "2026-11-02T00:44:27.593804+00:00",
   "mistral large 4 open weight model released": "2026-10-30T22:19:45.458813+00:00",
+  "mistral launches voxtral 3 for multilingual voice agents": "2026-11-04T06:21:37.688691+00:00",
   "mistral releases weights for its trillion parameter ai model targeting cybersecu": "2026-10-30T11:05:02.853823+00:00",
   "mistralai mistral large 4 1t a52b hugging face": "2026-10-30T11:05:02.853823+00:00",
   "models disappearing from huggingface": "2026-10-23T09:39:41.010395+00:00",
@@ -741,7 +743,8 @@
   "جوجل تطلق نموذج gemini 3 5 flash": "2026-11-03T17:02:42.466389+00:00",
   "جوجل ديب مايند تطلق نموذج العالم genie 4": "2026-10-29T09:57:41.191026+00:00",
   "جوجل ديب مايند تكشف عن موديل genie 4": "2026-10-27T22:14:05.148140+00:00",
-  "ميسترال تضيف واجهة برمجة تطبيقات api بصيغة openai": "2026-10-28T20:16:35.464620+00:00"
+  "ميسترال تضيف واجهة برمجة تطبيقات api بصيغة openai": "2026-10-28T20:16:35.464620+00:00",
+  "ميسترال تطلق voxtral 3": "2026-11-04T06:21:37.688691+00:00"
  },
  "urls": {
   "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/": "2026-10-29T11:10:33.944393+00:00",
@@ -1156,6 +1159,7 @@
   "https://www.google.com/search?q=Hera%3A%20New%20AI%20Tool%20for%20Image%20Generation%2C%20Design%2C%20and%20Animation": "2026-10-23T09:39:41.010395+00:00",
   "https://www.google.com/search?q=Kuaishou%20Launches%20Kling%204.0%20AI%20Video%20Model": "2026-10-23T09:39:41.010395+00:00",
   "https://www.google.com/search?q=Mistral%20Large%204%20Open-Weight%20Model%20Released": "2026-10-30T22:19:45.458813+00:00",
+  "https://www.google.com/search?q=Mistral%20Launches%20Voxtral%203%20for%20Multilingual%20Voice%20Agents": "2026-11-04T06:21:37.688691+00:00",
   "https://www.google.com/search?q=Oracle%20and%20OpenAI%20Partner%20for%20New%20Enterprise%20AI%20Suite": "2026-10-27T22:14:05.148140+00:00",
   "https://www.gurufocus.com/news/2471900/summit-therapeutics-smmt-partners-with-lunit-to-advance-aidriven-immunooncology-research": "2026-10-24T09:11:48.417268+00:00",
   "https://www.hindustantimes.com/topic/artificial-intelligence": "2026-10-24T09:11:48.417268+00:00",
