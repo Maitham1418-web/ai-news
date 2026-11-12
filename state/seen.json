@@ -8,7 +8,8 @@
   "2026-11-05": 1,
   "2026-11-09": 1,
   "2026-11-10": 1,
-  "2026-11-11": 1
+  "2026-11-11": 1,
+  "2026-11-12": 1
  },
  "titles": {
   "17 better ways elon musk could have wasted 446 million": "2026-11-05T12:49:42.716151+00:00",
@@ -307,6 +308,7 @@
   "google s first data center satellite is online and writing poetry": "2026-10-31T10:39:06.460619+00:00",
   "google s satellite ai server transmits its first response to earth": "2026-10-31T10:39:06.460619+00:00",
   "google s tabletop ai experiment lets you build custom collaboration apps": "2026-11-12T13:25:01.886985+00:00",
+  "google search gets a major upgrade with gemini 4 hydrogen": "2026-11-12T19:54:01.056143+00:00",
   "google skills": "2026-11-05T12:49:42.716151+00:00",
   "google takes dreambeans to india in bid to bring ai generated personal stories t": "2026-11-03T12:28:36.183622+00:00",
   "google vids receives major video generation upgrade with longer clips": "2026-11-07T11:23:42.823357+00:00",
@@ -370,6 +372,7 @@
   "intel s stock crashes knocking 12b from government s stake": "2026-10-31T10:39:06.460619+00:00",
   "introducing alphaproof code a breakthrough in verifying complex software at dept": "2026-11-10T13:06:58.587775+00:00",
   "introducing deepseek v4 1 flash 1017 dynamic v3 1 unsloth ggufs": "2026-10-31T10:39:06.460619+00:00",
+  "introducing gemini 4 hydrogen": "2026-11-12T19:54:01.056143+00:00",
   "introducing hy4 open weights soon": "2026-11-04T12:39:42.354617+00:00",
   "introducing inkling 2 small": "2026-11-06T12:34:44.751533+00:00",
   "introducing the grid protectors program": "2026-11-03T12:28:36.183622+00:00",
@@ -783,10 +786,12 @@
   "إطلاق gemini omni 1 2 flash": "2026-11-05T17:23:55.640919+00:00",
   "إطلاق أوزان موديل mistral large 4": "2026-11-02T00:44:27.593804+00:00",
   "إطلاق موديل mistral large 4 مفتوح المصدر": "2026-10-30T22:19:45.458813+00:00",
+  "إطلاق نموذج gemini 4 hydrogen": "2026-11-12T19:54:01.056143+00:00",
   "تكامل أدوات أدوبي مع تطبيقات جوجل": "2026-11-10T14:53:25.845005+00:00",
   "توفر chatgpt enterprise في aws marketplace": "2026-11-09T19:48:54.564518+00:00",
   "جوجل تطلق موديل gemini 4 carbon": "2026-11-02T00:44:27.593804+00:00",
   "جوجل تطلق نموذج gemini 3 5 flash": "2026-11-03T17:02:42.466389+00:00",
+  "دمج gemini 4 hydrogen في بحث جوجل": "2026-11-12T19:54:01.056143+00:00",
   "ميسترال تطلق voxtral 3": "2026-11-04T06:21:37.688691+00:00"
  },
  "urls": {
@@ -813,6 +818,7 @@
   "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": "2026-11-12T13:25:01.886985+00:00",
   "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": "2026-11-07T11:23:42.823357+00:00",
   "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/": "2026-11-11T12:16:39.937213+00:00",
+  "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": "2026-11-12T19:54:01.056143+00:00",
   "https://blog.raed.dev/posts/proton-loser-thinking/": "2026-11-02T12:56:28.688243+00:00",
   "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/": "2026-11-01T11:33:21.754730+00:00",
   "https://bme.jhu.edu/news-events/news/scientists-get-renewal-of-20-million-award-to-advance-ai-research-on-healthy-aging-and-alzheimers-disease/": "2026-11-07T11:23:42.823357+00:00",
@@ -827,6 +833,7 @@
   "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": "2026-11-11T12:16:39.937213+00:00",
   "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": "2026-11-05T17:23:55.640919+00:00",
   "https://deepmind.google/blog/introducing-alphaproof-code/": "2026-11-10T13:06:58.587775+00:00",
+  "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": "2026-11-12T19:54:01.056143+00:00",
   "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2": "2026-10-31T10:39:06.460619+00:00",
   "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/": "2026-11-10T13:06:58.587775+00:00",
   "https://fig.blue/posts/duet-is-the-future/": "2026-10-30T11:05:02.853823+00:00",
