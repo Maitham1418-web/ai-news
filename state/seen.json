@@ -9,7 +9,7 @@
   "2026-11-10": 1,
   "2026-11-11": 1,
   "2026-11-12": 1,
-  "2026-11-14": 1
+  "2026-11-14": 2
  },
  "titles": {
   "17 better ways elon musk could have wasted 446 million": "2026-11-05T12:49:42.716151+00:00",
@@ -305,6 +305,7 @@
   "google is entirely disabling search in schools that don t want ai": "2026-11-04T12:39:42.354617+00:00",
   "google launches gemini 4 argon globally introduces faster gemini 4 hydrogen": "2026-11-13T12:42:02.868382+00:00",
   "google releases gemini 4 carbon with agent swarm feature": "2026-11-11T12:16:39.937213+00:00",
+  "google releases gemini 4 hydrogen with 2 5x speed boost": "2026-11-14T10:25:11.340464+00:00",
   "google rolls out gemini 3 5 flash ai model": "2026-11-03T17:02:42.466389+00:00",
   "google s alphagenome 2 zooms in on the cellular roots of disease": "2026-11-12T13:25:01.886985+00:00",
   "google s first data center satellite is online and writing poetry": "2026-10-31T10:39:06.460619+00:00",
@@ -451,6 +452,7 @@
   "meta introduces spaces for muse agent collaboration": "2026-11-12T13:25:01.886985+00:00",
   "meta is losing its longtime head of infrastructure": "2026-11-12T13:25:01.886985+00:00",
   "meta releases muse ember a new lightweight model for agent execution": "2026-11-10T13:06:58.587775+00:00",
+  "meta releases proprietary multimodal ai model muse ember": "2026-11-14T10:25:11.340464+00:00",
   "meta s ai agent muse lands on apple watch and android wear os": "2026-11-11T12:16:39.937213+00:00",
   "meta s muse ai can create custom spaces for the version of the app you need righ": "2026-11-07T11:23:42.823357+00:00",
   "meta says us users can now video chat with their muse ai avatar": "2026-11-06T12:34:44.751533+00:00",
@@ -795,9 +797,11 @@
   "إطلاق نموذج gemini 4 hydrogen": "2026-11-12T19:54:01.056143+00:00",
   "تكامل أدوات أدوبي مع تطبيقات جوجل": "2026-11-10T14:53:25.845005+00:00",
   "توفر chatgpt enterprise في aws marketplace": "2026-11-09T19:48:54.564518+00:00",
+  "جوجل تطلق gemini 4 hydrogen": "2026-11-14T10:25:11.340464+00:00",
   "جوجل تطلق موديل gemini 4 carbon": "2026-11-02T00:44:27.593804+00:00",
   "جوجل تطلق نموذج gemini 3 5 flash": "2026-11-03T17:02:42.466389+00:00",
   "دمج gemini 4 hydrogen في بحث جوجل": "2026-11-12T19:54:01.056143+00:00",
+  "ميتا تطلق نموذج الذكاء الاصطناعي muse ember": "2026-11-14T10:25:11.340464+00:00",
   "ميسترال تطلق voxtral 3": "2026-11-04T06:21:37.688691+00:00"
  },
  "urls": {
@@ -1170,8 +1174,10 @@
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH88xhMrkXG2OBzdvahysoucn2LWoQnt7hmYk3W5oRtpwZ21lnt0lVwktrwfehsvqZgSpqiVG_BwpTihiEXjSYwRbaHQjnqmS5Gan_klA2OMgS": "2026-11-12T13:25:01.886985+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIre2_J7wDtNoaDA8gjAdS9MXJJbUiCvjXfYJZLOv_LQaYsDSx7qgGuNlFQAbxcFpGIdN8cwPA1TzKopszAPz9kYFQNEqDMpFKp43JD3EW1wa99XbtksIYVKXL5g8PA28iivTusEJg8l0OV4fLFnFd4S8cGdYPi4LmoUipXZuGoKmOTEKkRAqLoA29Ml4=": "2026-11-10T13:06:58.587775+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOaXr3GOfvDk49I_bKxF7RiGPnKE_pD2eRBX5ATRWESeX2TS_pmcquTIM0Q5ELDsFv-vPtaz2xP_3fGcU-9o4xvhjHLRzOBJRP_ilukh8SYaqfgJE=": "2026-11-04T12:39:42.354617+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPEh3s429tSPq_6kXfFCWO3rFkeXUsaeaWXiuRjUy_STW1-vUcAeuHPACBPw06lDGxRP3tS2yfjUGTBgBDDxmOQCFpIHdCqAC8uT_-5fU8TERGgVM9UU_7Eiyuts8SJIyT5LS7I2CVAhBGkZFwL00hyGKWcmI20jQDsK_G7ldVgRhAPRdXOeVnsWwNic5kttQim0Nc7Ou8": "2026-11-14T10:25:11.340464+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPG7f-6dgZFXYjl-3kEFquTFqDL6jV_WYZEQpDDgvuX5YwOrJLcU2s6SF3-YkyrM7vRLEK0ZbrIry3EZgEXV3OCukLzZnlovQcMYxqoLUWqSkC725IuEp_YsDwd--a15hJaoQ-L3TSHkbiZMahRQBEYHbi7jdQw5nSYy9m97urm4O8m9u_yLeGLOBlPgDmLbalFg==": "2026-11-02T12:56:28.688243+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY1Gw-r5WDICiPNPQ_tpX-zQS6jFLzvl53QlIqayqprY_4x6zOMgz_F9_VClZAaj046V35NaxBqZ8OU49FTOqBHKLmX0xaP5o-ZsXZOMljopDz-rbfqxIAB7wdCxhIk3mVHUVP3ZXRPuL3AL-WifAADraoyyxIsT8c4nP0DVjsQHE9tgcItaqmkoHManLA8pcE4peznaMtYAfhYxNI3HglqZENrcPU9Bd6zaR6QqnzGA==": "2026-11-07T11:23:42.823357+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYIR0EtWdyAj-asMUB1OhBGkJ5-09pN_pj8WOTSWZQ4sG0v_Of2s_nVqrRCToKwo3l7b0MYKRVYIJPteHohL7ablSkhtmJ9utHfKbaOKsS_CusWivFg0SUEx0KavdbBbHMsBv5Ag8-qanvum--PAOQYADRUCnzqxb6XIHM4hPHsPrlDsOtxvyUpSmCLi0gQjDW4HEFrD0GZ8Y": "2026-11-14T10:25:11.340464+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZjq0oF1dTAJJy1UBQrmnWSugvLRmDIkaHq0TOZLBpKeSYLoRAcdFaNE7em8OL9E6Vb4Jjidh-MQ4yOtAZ4Fq3rANdzFnhLZhTxOgWUr6ORpCjpd-46GgU9aYAJCqJpu0qR-hBacphjPCAUn-97iN2vaKib-BVicNSSVnybnMIhvkgf4AcqcIkTYSHo89m6GxsOgdf48n7FsYCRS0z2qgHfM96nMfYv7IQu2tPh64qzxlPE3rohruC5ix8QA==": "2026-11-04T12:39:42.354617+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_Ik9-PH8iOGBCOmiT_7iPOa-PhgIZJL2ZI4qwInlirLpKEYmP2X9oHwpKqd8YkLQrzFnolr7zcEs2-0Y63Fa8GyMEzfCCcdXOCXEzf4ZaiPC5g2ZNkRTWhxR1lrVoTFEy0EMFn_QuyawklEseS1ObS8EToxarjD_qr0FsEWgG7DXcZFvgLpNiIWQNZmbf7vwTFUU-frOFi-Ot3LLsZrcWGLytWGjIk-inpfOVhq_ocHacHzn5JtzvFeV6eQ==": "2026-11-09T13:27:59.898220+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa5dGNQF7ecNaeekf8bijN6malL_UUBZWzRV_BajKVmnuHzvcCPPepptRVw9EK-Kd7iPpRPsSI_C_wagkYCNZbTwEtLafZq1h06IOzcI5TkL2KkQhf2pSGp94jeLTEqBO7YvmXrkvdrtX1-Nuxn4AtYeD-BJSnKSYNyAImW0A1SfgtZHl6Hk3zK3R8TJw0xMfLlAbfeYRRudwXGyiOVJDqsuICfqFSgCsMPiGhRu97": "2026-11-13T12:42:02.868382+00:00",
