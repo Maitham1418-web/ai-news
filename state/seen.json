@@ -1,6 +1,5 @@
 {
  "alerts": {
-  "2026-10-31": 1,
   "2026-11-02": 1,
   "2026-11-03": 1,
   "2026-11-04": 1,
@@ -10,7 +9,7 @@
   "2026-11-11": 1,
   "2026-11-12": 1,
   "2026-11-14": 2,
-  "2026-11-15": 1
+  "2026-11-15": 2
  },
  "titles": {
   "17 better ways elon musk could have wasted 446 million": "2026-11-05T12:49:42.716151+00:00",
@@ -556,6 +555,7 @@
   "openai is finally merging chatgpt s chat and work tabs": "2026-11-03T12:28:36.183622+00:00",
   "openai is stepping back from ndas for data center projects": "2026-11-06T12:34:44.751533+00:00",
   "openai launches ai powered cybersecurity tools": "2026-11-14T01:26:44.594199+00:00",
+  "openai launches chatgpt wallet": "2026-11-15T06:30:50.541525+00:00",
   "openai launches gpt 6 cyber with critical cybersecurity rating": "2026-11-07T11:23:42.823357+00:00",
   "openai might rebrand its data centers as ai compute campuses": "2026-11-02T12:56:28.688243+00:00",
   "openai pitches data center power plants as a way to protect nearby areas": "2026-11-03T12:28:36.183622+00:00",
@@ -791,6 +791,7 @@
   "zhulinsen daily_stock_analysis": "2026-11-09T13:27:59.898220+00:00",
   "إطلاق gemini omni 1 2 flash": "2026-11-05T17:23:55.640919+00:00",
   "إطلاق أوزان موديل mistral large 4": "2026-11-02T00:44:27.593804+00:00",
+  "إطلاق محفظة chatgpt": "2026-11-15T06:30:50.541525+00:00",
   "إطلاق موديل كلود أوبوس 4 8": "2026-11-14T22:23:43.587524+00:00",
   "إطلاق نموذج gemini 4 hydrogen": "2026-11-12T19:54:01.056143+00:00",
   "تكامل أدوات أدوبي مع تطبيقات جوجل": "2026-11-10T14:53:25.845005+00:00",
@@ -1188,6 +1189,7 @@
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx4JwFZKBipvbtQUv792_sTghqRNYB1mcIsM6pk26T1l63EZ1j-PcpM4C_6ArNt-HA9e3XzLm4z78QIJqJCcZGWCcrazuoDUp5OCTrVdgOEu25NdJOYxwnhOlp": "2026-11-04T12:39:42.354617+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxKUzqsNytIvnwpHCbRZXpMDVz8vxOC7Wfz9O74t4mvwyVraR2Q3JC0l558c4BKcd8vjJDneZZjW3NyBf2Ligj9JyD1PlHTvhL7jdSVgrI17yI": "2026-11-12T13:25:01.886985+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzdD5WQVRABjBijRrRzQJfyPNxJnqIzVHQQjXMe_7JaQUjYIBdRylK8gbRV8NvskDGhV45CJFxUw90A8E0MS4MHbb-2ls-u_NVTsJAzvO-pDdtn4JAmWekuE16dsjprRrvZQG7NrQCxDuOZm-22YnKNvHinV9Z4khFdkRquASzGGzGTdt_AwR3qqxzRN44E9nLqAyR73idQ43MmJ3htbWoUj1Sm1cpuzB3O6AuKfY1uzPdIxM6FKxcMA6CGZIbAyBnvv6iJkoWaUtZ1NYn67Ufm8G_dMyeVdBVG9NvgLtyHlaah_BM6gAay2T7mgFsRnU_JChnjd6gRSYlB0-7LMWS1jvv2hQE-UcXwe11jHmew7H6qZLF-KbdUg4=": "2026-11-04T12:39:42.354617+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2SKUumx7YsKn3ZQBmpnHtOBzWXMHzqqupW4GLiaEYSIpbNrgFMINtc6lT2UeXO32uEW6SY6Nbg49tWVUf4rRK6YdvjVKBMAK66boWglIPe0ixEnLVzjdoosSHAw_MMYqX_2Tcaw4n1xFk9-VfNzPojo3g2hQKEZwNr5f-EzaSlZXlEA==": "2026-11-15T06:30:50.541525+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3CFrz3AwhfSckJsWIu_gym2H0Y3g1m6AUURarEIGxSxzozjc8z7Xhbj_qdGH8V0YRFpSB12sJUIW5Eqfm4Y5ocN2V92tk0vk7-cBmA1GowzyrtyLMtmqSnaOJ3jH573lHz81cWp7Mbg==": "2026-11-04T12:39:42.354617+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA8feIc63vmRnwYtsKFt9VA6JXlOS877ME127VZGadO4pfbnD4JjZMW6LV9erjTRX4wXgc4MPuenYEPZzVdDWczaUYC-UyAqo3pHAfWxIQQfY73j5h9LUvfjcpqA8pzM-zFblFbEPBvstZOewAtPxrxlM=": "2026-11-07T11:23:42.823357+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC1RWNxyKt8VD3MgH10mmju4VQfnNmKKH6qKWxyHjpR0uUJNC-aVIk0xYdDdOkxan9PTOqgezNA9whNZ-8bMCjL-eVXR8mzwxCzA7qZcSKaMyOkXPC8ZQqWRNgM43XxSqpD3S5USHtEoKx-g_xdnTYWD2bLEyGeBbB7yvovlYbV5YdqbnvZYE15aKPj7IvVtyXdXeks0IVsziey9LNx-IB7LtZy8_tcKk=": "2026-11-13T12:42:02.868382+00:00",
