@@ -9,7 +9,8 @@
   "2026-11-16": 1,
   "2026-11-18": 1,
   "2026-11-19": 1,
-  "2026-11-21": 1
+  "2026-11-21": 1,
+  "2026-11-22": 1
  },
  "titles": {
   "2610 29162v1 why is ai generated language so hard to understand": "2026-11-12T13:25:01.886985+00:00",
@@ -417,6 +418,7 @@
   "microsoft ceo satya nadella explains why he asked 60k employees to quit": "2026-11-19T13:59:47.791740+00:00",
   "microsoft ceo satya nadella remains confident in nvidia after huang s exit": "2026-11-19T13:59:47.791740+00:00",
   "microsoft files a patent application to train ai models on idle consumer gpus": "2026-11-12T13:25:01.886985+00:00",
+  "microsoft integrates openai s gpt 6 2 sol into copilot globally": "2026-11-22T01:18:28.381315+00:00",
   "microsoft launches seven new ai models": "2026-11-18T13:33:00.664140+00:00",
   "microsoft offers employee buyouts amid ai shift": "2026-11-20T13:41:51.230792+00:00",
   "microsoft patent describes turning idle gaming gpus into paid ai training hardwa": "2026-11-15T12:21:31.651628+00:00",
@@ -756,6 +758,7 @@
   "جوجل تقدم موديل gemini 4 helix": "2026-11-14T22:23:43.587524+00:00",
   "جوجل وإنفيديا تطلقان بنية تحتية للذكاء الاصطناعي للبنوك": "2026-11-16T19:36:12.006672+00:00",
   "دمج gemini 4 hydrogen في بحث جوجل": "2026-11-12T19:54:01.056143+00:00",
+  "مايكروسوفت تدمج gpt 6 2 sol في copilot": "2026-11-22T01:18:28.381315+00:00",
   "ميتا تطلق نموذج الذكاء الاصطناعي muse ember": "2026-11-14T10:25:11.340464+00:00"
  },
  "urls": {
@@ -1097,6 +1100,7 @@
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiDo6fxVLch-qRMI_s7ws_HRJJSnQd6lJ2-yFkFL4xmyuXaB2wt-_OJ7MdP1JHt__wLDBD4dHLMmNsnQeaIOeN8Z4UI_UtvsXiUsVZOqu3VjKkdCPjt5vO2dGZaAag9GsajeFWDCo=": "2026-11-16T13:13:31.731035+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkFbuDZaEoNrwFIBZOfvGH70XUQZX2UEmHqqi3ohDmOkaEltIAlHVpO9wPcJznSDgEg_HWDgJbqXu63JyZEdy0UfChjokage0kgRea0l39WT-Hpl24bS9fwUOFD4Kza4uWFjHHY1YcpqBA0939xPnekXXmnNT95aMuLJ9xc5vnbIlgmLYioPv1Hfgb5ICOpmVHBuebU3ThiHHhnvSvBlSCEl1R5eBh0Zn0yE8-f8Hbty4Cwfgw9w==": "2026-11-18T13:33:00.664140+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElajho6PoCuqsfi3fSWMenG8uWwQhqzLUuNPRx3TbllANtchIHSGnleH7lC0YqdEqDOh3sv3GqFjQr8k8jC-W2DnuA1SP0N27tvqX2YpcSjGTBJGQIbTuLiDWQBz-Ofldg0XNgWpX77hmmUq8FsSa5wgSgz6kYV8yTwK5bZU0LGwFXZOBcTjsX5zaCO56N_NH6eXi4nS1zwf9x6z8gYAwyU3kjFj8urC30pZ0hTPbMzhBz0klEHYu2QddIU1B3lYZ21F8mAXp_pcMYD5aX8aUowQ18R87RN6s2x5VZ2niKu0TRfLMZ8PGRVVfU7pS7xAZZcgl1gVhFuXETBBTyykvexaYy8JhVuezn-1Q=": "2026-11-12T13:25:01.886985+00:00",
+  "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoENC9s6qpWO2udl9JIwmzu0JkbFclNl8nI-DptygVOPX1Q1iMadF3By4hUll5fwocnYCmDQwy-X8iPOCd1G6X0k5HV7qrYuwqlr7tWy4UCDY9R1RSBS24i73hQe3-VIAl5-vgZywMsoVn30__ds0-mYpJeHmpes7EyxP2enKR2p1fbZXEJ7F2_ren0YtTAlNMVj8oMh-A85_Mq4IIq7Lh_jpR": "2026-11-22T01:18:28.381315+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoUZ3MklNUbaB_vs5k62UBwqAMEZwid9uFOVn_p8ukC6RBpwMoRfg8diF2Y2ci72lKr6cvmZSKgAV36Ph8CHs6BqnZWjb_CndgxO4czI4LwCQxJjMkHbw9RAEoWZHSBtVIDbpg5vgkP_p67y3l0F-h8kqackJ073pwgh3hEStKwVxnHcZF9TLKGIPxqgY=": "2026-11-09T13:27:59.898220+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEse8Cgy9CU5N31rA4igKYBYu0yDZlH02P1DY0g5Ckuok4OpimzDSGt-mBiiEjtzYqviijgabrtHnbfhJmuQVwj3Clec4IYpw2UfiH_meUiOLsYbdVO65LJqoNTYPgrGZRXcjdPBRS5wo-taOyVbmNJ2izJfme5yGyDxW4ZFDKUIkw3QJe8AOwnXItwiON4jr_ANaMzx0rW1uAGxCs=": "2026-11-09T13:27:59.898220+00:00",
   "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwrelhddoWz_BI4kpcRxjCn8Fox0iTZ19ZXwoxZa-Pny3ZmLq9w7LhYyt8LMgf8JkOvFRtkiJemofGqJzbDhensa3biuNgec0Ltid-ulU6POjCkbDou8pJ7FNuxxXbKXi7x5qAfAx_pQFp_04r2lk1dZaR-K1Y": "2026-11-13T12:42:02.868382+00:00",
